@@ -3,7 +3,7 @@
 -- Language: SQL (generic)
 -- Link: https://leetcode.com/problems/employees-earning-more-than-their-managers/
 -- Synced by: LinkCode
--- Date: 3/2/2026, 9:54:28 PM
+-- Date: 3/3/2026, 8:48:03 PM
 -- ======================================
 
 

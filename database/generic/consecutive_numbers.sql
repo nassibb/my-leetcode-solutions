@@ -3,7 +3,7 @@
 -- Language: SQL (generic)
 -- Link: https://leetcode.com/problems/consecutive-numbers/
 -- Synced by: LinkCode
--- Date: 3/10/2026, 1:26:56 PM
+-- Date: 3/10/2026, 1:27:48 PM
 -- ======================================
 
 

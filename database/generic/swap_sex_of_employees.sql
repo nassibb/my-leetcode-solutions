@@ -3,7 +3,7 @@
 -- Language: SQL (generic)
 -- Link: https://leetcode.com/problems/swap-sex-of-employees/
 -- Synced by: LinkCode
--- Date: 9/25/2026, 1:35:55 PM
+-- Date: 9/25/2026, 1:48:08 PM
 -- ======================================
 
 

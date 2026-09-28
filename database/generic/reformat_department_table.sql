@@ -3,7 +3,7 @@
 -- Language: SQL (generic)
 -- Link: https://leetcode.com/problems/reformat-department-table/
 -- Synced by: LinkCode
--- Date: 9/28/2026, 3:52:03 PM
+-- Date: 9/28/2026, 4:09:54 PM
 -- ======================================
 
 

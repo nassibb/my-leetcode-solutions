@@ -3,7 +3,7 @@
 -- Language: SQL (generic)
 -- Link: https://leetcode.com/problems/list-the-products-ordered-in-a-period/
 -- Synced by: LinkCode
--- Date: 10/10/2026, 7:58:28 PM
+-- Date: 10/10/2026, 7:58:37 PM
 -- ======================================
 
 
